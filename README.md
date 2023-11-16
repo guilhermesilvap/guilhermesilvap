@@ -1,6 +1,6 @@
 Olá, eu sou o Guilherme Silva
 
-🌱 Estudando React e TypeScript
+🌱 Estudando React
 📫 Contate-me no email: guilherme.silvap@outlook.com.br
 😄 Pronouns:ele/dele
 
