@@ -1,6 +1,6 @@
 Olá, eu sou o Guilherme Silva
 
-🌱 Atualmente estou estudando, containers com Docker. 
+🌱 Atualmente estou estudando containers com Docker. 
 📫 Contate-me no email: guilherme.silvap@outlook.com.br
 😄 Pronouns:ele/dele
 
