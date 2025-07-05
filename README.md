@@ -1,8 +1,9 @@
 Olá, eu sou o Guilherme Silva
 
-🌱 Atualmente estou estudando containers com Docker. 
-📫 Contate-me no email: guilherme.silvap@outlook.com.br
-😄 Pronouns:ele/dele
+👨‍💻 Desenvolvedor Web com foco em React, TypeScript, Tailwind CSS, Node.js com Express e PostgreSQL.
+🔧 Crio APIs RESTful, interfaces modernas e aplicações full-stack organizadas e performáticas.
+🛠️ Utilizo TypeScript para maior segurança no código e clareza na tipagem.
+🚀 Em busca da minha primeira oportunidade profissional para aplicar meus conhecimentos em projetos reais e continuar evoluindo como dev.
 
 <div align="center">
   <a href="https://github.com/guilhermesilvap">
